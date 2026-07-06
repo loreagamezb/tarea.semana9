@@ -1,0 +1,9 @@
+Es importante que las plataformas que usan las comunidades funcionen 
+bien y de forma segura porque muchas personas las utilizan para 
+compartir información, hacer consultas o participar en actividades.
+Si la plataforma falla con frecuencia o deja de funcionar, las personas
+pueden dejar de usarla. También es importante proteger la información 
+para evitar que se pierda o que alguien la use sin permiso. Cuando el 
+servidor funciona correctamente, la plataforma está disponible cuando 
+se necesita y responde más rápido. Esto hace que las personas tengan 
+más confianza y puedan participar sin problemas. 

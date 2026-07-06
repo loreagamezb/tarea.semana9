@@ -1,0 +1,26 @@
+Sistema operativo: es el software principal que actúa como intermediario
+entre el usuario y el hardware. Sus funciones esenciales son gestionar
+los recursos del equipo, coordinar el procesador, administrar la
+memoria RAM, organizar los archivos y controlar los dispositivos 
+periféricos para ejecutar las aplicaciones de forma eficiente. 
+
+Node.js:  es un entorno de ejecución de código abierto que permite 
+ejecutar código JavaScript fuera del navegador web. Su función 
+principal es permitir a los desarrolladores utilizar JavaScript 
+para crear aplicaciones de servidor (back-end),procesar peticiones 
+HTTP y comunicarse con bases de datos
+
+Aplicaación Server.js: El archivo server.js actúa como el punto de 
+entrada principal (cerebro) del "backend" en aplicaciones que utilizan
+Node.js. Su función es configurar y levantar el servidor web encargado 
+de recibir las peticiones de los usuarios y enviar las respuestas
+correspondientes. 
+
+Puerto: Un puerto sirve como un punto de interfaz o conexión 
+(físico o virtual) para transferir datos, energía o personas entre 
+diferentes medios o sistemas.
+
+Logs: es una bitácora o historial digital que documenta automáticamente
+los eventos, acciones y errores que ocurren dentro de un sistema 
+informático. Su función principal es proporcionar un rastro secuencial 
+y detallado de todo lo que sucede en una aplicación o red. 
